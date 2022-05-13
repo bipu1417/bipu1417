@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bipu1417
+- 👋 Hi, I’m @BiplabMahato
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development using ReactJs
